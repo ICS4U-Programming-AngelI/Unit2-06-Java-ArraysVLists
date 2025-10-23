@@ -7,17 +7,16 @@ import java.io.FileNotFoundException; // Import exception handling for missing f
 /**
  * This program reads integers from a user-chosen file,
  * calculates and displays the mean and median.
- * It performs input validation and separates logic into functions.
  *
  * Author: Angel
  * Version: 1.0
  * Since: 2025-10-22
  */
-public final class ArraysVLists { // Class name matches the filename
+public final class ArraysVLists { // Class name 
 
-    // Private constructor to prevent instantiation
+    // Private constructor to prevent object creation
     private ArraysVLists() {
-        // Throws exception if someone tries to create an instance
+        // Throws exception if someone tries to create an object
         throw new IllegalStateException("Utility class");
     }
 
