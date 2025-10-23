@@ -12,7 +12,7 @@ import java.io.FileNotFoundException; // Import exception handling for missing f
  * Version: 1.0
  * Since: 2025-10-22
  */
-public final class ArraysVLists { // Class name 
+public final class ArraysVLists { // Class name
 
     // Private constructor to prevent object creation
     private ArraysVLists() {
